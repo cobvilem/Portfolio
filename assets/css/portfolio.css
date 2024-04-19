@@ -302,15 +302,16 @@ display: none;
         }
 
         .profileMobile{
-          margin: 25%;
-          size: 100%;
+          margin: 15%;
+          margin-left: 25% ;
+          size: 130%;
           height: fit-content;
           width: fit-content;
         }
 
         .profile{
-          display: hidden;
-          margin: 25%;
+          content-visibility: hidden;
+          margin-bottom: 25%;
         }
       }
      
